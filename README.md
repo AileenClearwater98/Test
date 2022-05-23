@@ -1,2 +1,3 @@
 # Test
-Prueba de clase
+No hay que tomarselo en serio! 
+Prueba en clase de Programación 
